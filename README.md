@@ -1,5 +1,6 @@
 POWER BI HR Attrition Analytics Dashboard
 
+video link :
 https://drive.google.com/file/d/1HuyDnHA_BaxiOUghdEc6Za4O4ILMqpW0/view?usp=sharing
 
 
